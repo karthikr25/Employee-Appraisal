@@ -1,0 +1,25 @@
+{
+  "name": "meanapp_intro",
+  "version": "1.0.0",
+  "description": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Karthik R",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "angular-animate": "^1.8.0",
+    "angular-aria": "^1.8.0",
+    "angular-material": "^1.1.22",
+    "angular-messages": "^1.8.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
