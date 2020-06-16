@@ -1,5 +1,10 @@
 # Employee-Appraisal
-wta
+WTA Practical assignment
+
+## Run
+run npm install<br>
+run mongod in one terminal<br>
+run node server.js in another terminal
 
 ![](images/Screenshot%20(20).png)
 ![](images/Screenshot%20(21).png)
